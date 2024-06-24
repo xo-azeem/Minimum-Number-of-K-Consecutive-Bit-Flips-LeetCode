@@ -37,5 +37,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Minimum-Number-of-K-Consecutive-Bit-Flips-LeetCode/assets/171427226/1f4852d9-4e99-4886-908b-9781c7ce5d15)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n).</br>Space complexity: O(n).
 </div>
